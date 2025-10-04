@@ -1,0 +1,10 @@
+class_code,description,loss_cost,lcm,payroll_usd,rate_per_100,est_premium_usd,notes
+5551,Roofing (tear-off/site prep baseline),2.27,1.30,40000,2.951,1180.40,"TDI loss cost × LCM"
+5551,Roofing (tear-off/site prep baseline),2.27,1.30,60000,2.951,1770.60,""
+5551,Roofing (tear-off/site prep baseline),2.27,1.30,100000,2.951,2951.00,""
+5551,Roofing (tear-off/site prep baseline),2.27,1.50,40000,3.405,1362.00,""
+5551,Roofing (tear-off/site prep baseline),2.27,1.50,60000,3.405,2043.00,""
+5551,Roofing (tear-off/site prep baseline),2.27,1.50,100000,3.405,3405.00,""
+5551,Roofing (tear-off/site prep baseline),2.27,1.90,40000,4.313,1725.20,""
+5551,Roofing (tear-off/site prep baseline),2.27,1.90,60000,4.313,2587.80,""
+5551,Roofing (tear-off/site prep baseline),2.27,1.90,100000,4.313,4313.00,""

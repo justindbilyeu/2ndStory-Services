@@ -2,6 +2,8 @@
 
 **Goal:** Get real workers’ comp & liability numbers (not guesses) for pilot + expansion.
 
+**Fast reference:** See `validation/insurance-sanity-check.md` for public TDI numbers (loss cost, LCM math, and pilot premiums).
+
 ## Scope
 - Workers’ Compensation (class codes, $ per $100 payroll, modifiers)
 - Employer’s Liability (limits)

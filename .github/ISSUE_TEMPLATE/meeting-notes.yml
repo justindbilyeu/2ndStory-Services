@@ -1,0 +1,17 @@
+name: Meeting Notes
+description: Capture decisions and action items
+title: "Notes: YYYY-MM-DD"
+labels: ["notes"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+  - type: textarea
+    id: decisions
+    attributes:
+      label: Decisions
+  - type: textarea
+    id: actions
+    attributes:
+      label: Action items

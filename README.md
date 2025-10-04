@@ -36,6 +36,11 @@ Create a specialized tear-off and site preparation service staffed by individual
 - First right to invest/partner for current employer
 - Target 20–50 contractor clients
 
+### Divisions (Roadmap)
+- Roofing Support (pilot): tear-off & site prep
+- Site Prep: general cleanup, final cleans, material staging
+- Fence & Erosion: temporary fencing, silt fence, wattles, inlet protection
+
 ## Roadmap
 **Validation (current)**
 - [ ] Insurance broker consultation (rates, codes, liability)

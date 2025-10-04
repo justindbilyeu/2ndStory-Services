@@ -1,0 +1,14 @@
+name: Research — Competitor Scan
+description: Identify 3 local competitors with pricing/positioning
+title: "Research: [service] competitors"
+labels: ["task","vendor","pilot"]
+body:
+  - type: input
+    id: service
+    attributes:
+      label: Service (cleanup / fencing / erosion)
+  - type: textarea
+    id: findings
+    attributes:
+      label: Notes
+      description: URLs, price signals, turnaround times

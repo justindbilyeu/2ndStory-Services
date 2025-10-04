@@ -11,3 +11,10 @@ Reliable, compliant site-prep for roofers while creating meaningful employment i
 - Contractors: Free specialists; compliance edge; reliable schedule.
 - Recovery partners: Structured, dignified, growth path.
 - Homeowners: Faster, cleaner installs with community impact.
+
+## Site Services Positioning
+Clean Sites. Strong Foundations. Second Chances.
+
+- **Site Prep:** reliable cleanup and staging so crews can build
+- **Fence & Erosion:** simple compliance handled by trained techs
+- **Proof:** photo sign-off + weekly report; optional diversion receipts

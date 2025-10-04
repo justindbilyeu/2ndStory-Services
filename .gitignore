@@ -1,0 +1,13 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Artifacts
+*.log
+*.tmp
+exports/
+
+# Private local notes
+secrets/

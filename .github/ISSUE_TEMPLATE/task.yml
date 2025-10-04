@@ -1,0 +1,25 @@
+name: Task
+description: Track a discrete pilot task
+title: "[Task] "
+labels: ["task"]
+body:
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+  - type: input
+    id: owner
+    attributes:
+      label: Owner
+  - type: input
+    id: due
+    attributes:
+      label: Due date
+  - type: checkboxes
+    id: done
+    attributes:
+      label: Definition of done
+      options:
+        - label: Implemented
+        - label: Verified
+        - label: Documented

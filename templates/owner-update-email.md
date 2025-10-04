@@ -1,0 +1,6 @@
+Subject: 2nd Story Services — Pilot Week [N] Update
+
+Jobs: X · Avg installer hrs/job: X (Δ: X%) · QC/Safety: [status] · Disposal: landfill Y% / recycling Z% ($/ton: $X)
+Notes/Risks: …
+Next week: …
+— Justin

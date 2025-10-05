@@ -71,3 +71,10 @@ Create a specialized tear-off and site prep service staffed by people rebuilding
 **Dignity in Work · Safety First · Operational Excellence · Community Impact**
 
 *Last updated: [YYYY-MM-DD]*
+
+## Funding & Incentives (Working Notes)
+- **WOTC (IRS/TWC):** Per-hire federal tax credit ($2,400–$9,600) for eligible hires (veterans, reentry, public assistance). Add **Form 8850** to hiring packet; submit within **28 days** of hire. Track hours (120/400) to maximize.
+- **Apprenticeship Refunds (TX):** ~$2,500 per apprentice; requires registering a program (2–3 months).
+- **TX Skills Development Fund:** Training grants via community college partner (e.g., ACC); 3–6 month runway; best after pilot results.
+
+See: `operations/hiring/WOTC-checklist.md` and `tools/grants/README.md`.

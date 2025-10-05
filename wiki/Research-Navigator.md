@@ -15,6 +15,10 @@ Use this to guide validation research; each line should end in a concrete next s
 - Partner intelligence pack: [/resources/partners/Partner-Intelligence-2025-10-04.md](../blob/main/resources/partners/Partner-Intelligence-2025-10-04.md)
 - Talent pipelines reference: [/resources/talent-pipelines.md](../blob/main/resources/talent-pipelines.md)
 
+## Funding & Incentives
+- Wiki summary: [[Funding & Incentives]]
+- Partner prospects & intel: [/resources/partners/Partner-Intelligence-2025-10-04.md](../blob/main/resources/partners/Partner-Intelligence-2025-10-04.md)
+
 ## 🤝 Workforce Pipeline Validation — STATUS: IN PROGRESS
 ### Recovery Community
 - Contacts: Austin Recovery, Salvation Army, The Other Ones Foundation

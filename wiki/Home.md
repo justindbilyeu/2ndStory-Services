@@ -19,6 +19,18 @@ Our pilot deploys OSHA-led roofing support crews with a **three-population workf
 - 💸 Funding & Incentives: [[Funding & Incentives]]
 - 👥 Talent Pipelines Pack: [`/resources/talent-pipelines.md`](https://github.com/justindbilyeu/2ndStory-Services/blob/main/resources/talent-pipelines.md)
 
+## Sales & Positioning
+- **Competitive Positioning (repo file)** — latest POV on our category and moat  \
+  https://github.com/justindbilyeu/2ndStory-Services/blob/main/Competitive%20Positioning.md
+- **Sales Battlecards (repo folder)** — ICP-specific talk tracks & objections  \
+  https://github.com/justindbilyeu/2ndStory-Services/tree/main/sales/battlecards
+- **Call Openers & Follow-ups**  \
+  https://github.com/justindbilyeu/2ndStory-Services/blob/main/sales/scripts/call-openers.md
+- **1-Pager**  \
+  https://github.com/justindbilyeu/2ndStory-Services/blob/main/sales/one-pagers/competitive-one-pager.md
+- **Positioning Glossary (wiki)** — definitions & what we will/won’t claim  \
+  [[Positioning-Glossary]]
+
 ## Owner Brief
 - Latest strategic snapshot: [Strategic Insights Summary (2025-10-04)](../blob/main/strategy/Strategic-Insights-Summary-2025-10-04.md)
 

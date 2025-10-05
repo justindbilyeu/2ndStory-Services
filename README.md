@@ -67,6 +67,12 @@ Create a specialized tear-off and site prep service staffed by people rebuilding
 **Scale Decision**
 - [ ] Go/No-Go; partner structure; rollout plan
 
+- Sales & Positioning:
+  - Competitive Positioning (repo): ./Competitive%20Positioning.md
+  - Battlecards: ./sales/battlecards
+  - Call Openers: ./sales/scripts/call-openers.md
+  - One-Pager: ./sales/one-pagers/competitive-one-pager.md
+
 ## Core Values
 **Dignity in Work · Safety First · Operational Excellence · Community Impact**
 

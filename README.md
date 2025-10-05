@@ -4,7 +4,9 @@
 [➡️ Project Wiki](https://github.com/justindbilyeu/2ndStory-Services/wiki) — overview for owners/partners
 
 ## Vision
-Create a specialized tear-off and site preparation service staffed by individuals from Austin's recovery community, solving labor inefficiency in residential roofing while providing meaningful employment and workforce reentry opportunities.
+Create a specialized tear-off and site prep service staffed by people rebuilding their lives — including those in recovery, transitioning veterans, and women overcoming economic barriers — delivering professional construction support with measurable community impact.
+
+**Multi-Population Model (Pilot):** Recovery + Veterans + Women (future: Reentry, Refugees, Youth, Disabilities).
 
 ## Current Status
 🔍 **Validation Phase** — Gathering insurance data, partner feedback, market scan, and internal QC baselines.

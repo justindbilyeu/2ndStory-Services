@@ -1,14 +1,12 @@
-# Outreach Email — The Other Ones Foundation (TOOF)
+**Subject:** Re: TOOF x 2nd Story — launch timing for transitional housing
 
-**Subject:** Next Tuesday crew slots + transport plan
+Hi Chase,
 
-Hi Chris,
+Happy Monday! We’re lining up this week’s outreach checklist and wanted to see if TOOF is ready to lock in next steps on the modular units we scoped last quarter. We still have the configuration that pairs 18 sleeping pods with the shared service core you liked, and the production window we held is still open if we release the PO by the end of the month.
 
-Thanks again for looping us into the Monday playbook thread. We can take 3–4 residents next week and run them through our OSHA warmup huddle on Monday at 9am (we’ll host it onsite at Esperanza if that helps). After the huddle, we’ll lock in Tues/Thu tear-off shifts with guaranteed $18/hr daily pay and shared supervision from our crew lead.
+Could we set 20 minutes this week to review the implementation schedule and confirm any site updates on your side? I can send over the revised cost sheet beforehand so you have the latest pricing on the utility skids and on-site assembly.
 
-Could we grab 15 minutes after your leadership standup on Monday to finalize the referral steps inside your Monday board and confirm the transport pickup window? I’ll send over the draft roster template as soon as you give the green light.
+Let me know which day works best and I’ll send a calendar invite. Appreciate you, Chase!
 
-Appreciate you, and excited to get this moving.
-
-— Justin
-512-555-4477
+Best,
+Justin

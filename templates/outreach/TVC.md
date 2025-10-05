@@ -1,14 +1,12 @@
-# Outreach Email — Texas Veterans Commission (TVC)
+**Subject:** Quick touchpoint on Village Collaborative build-out
 
-**Subject:** Crew leadership track for Austin veterans — ready for listing
+Hi Katharine,
 
-Hi Marcus,
+Hope your week is off to a strong start. I’m touching base on the transitional tiny home village concept we mapped out with your operations team. We tightened the supply chain plan so that we can deliver the first 12 units inside of a six-week window once we get the green light.
 
-Appreciate you looping us into the Monday intro. We’re ready to submit the employer intake this week and would love to confirm the listing copy on your Wednesday employer services sync. We can place three veteran crew members immediately with OSHA-led supervision and a defined path: Crew Member → Assistant Lead → Lead within 90 days (with stipend bumps at each rung).
+Do you have availability this week for a short call to align on funding approvals and make sure the permitting path is still clear? Happy to send the updated milestone tracker in advance so you can share it internally.
 
-Could you review the attached one-pager and let us know if anything needs tweaking for WorkInTexas? Happy to send weekly retention metrics so you can showcase outcomes. If it helps, we can also co-host a 2-hour work-readiness day next Thursday for any TVC candidates who want to see the crew in action.
+Thanks again for the collaboration—excited to keep momentum going.
 
-Thanks for the partnership!
-
-— Justin
-512-555-4477
+Warmly,
+Justin

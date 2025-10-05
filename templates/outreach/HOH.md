@@ -1,14 +1,8 @@
-# Outreach Email — Hiring Our Heroes (HOH)
+Hands of Hope Outreach Submission — Please share the latest developments on your transitional housing projects, including:
 
-**Subject:** Draft SkillBridge plan + Austin trades touchpoint
+- Confirmation that 2nd Story Services can provide modular units for the Q4 intake.
+- Updated budget range (we can flex between $780k–$1.1M depending on the final amenities package).
+- Preferred delivery timeline and any permitting constraints we should know about.
+- Key contacts for facilities, procurement, and on-site services so we can coordinate the pre-install walkthrough.
 
-Hi Sarah,
-
-Following up on the Monday SkillBridge notes—attached is the draft 12-week fellowship outline we discussed. It starts with a 2-hour work-readiness day + OSHA refresher, then rotates fellows through tear-off, fencing, and logistics with a leadership shadow block in weeks 9–12. We can host the first cohort starting November 18 and already have transport windows published for Crew 1.
-
-Could we secure 20 minutes before Friday’s cohort review to walk through the MOU items and make sure the spouse orientation is covered? Happy to loop in CPT Ruiz if you’d like him on the call. We’re eager to get two fellows confirmed so they can plan their timeline.
-
-Thanks and talk soon!
-
-— Justin
-512-555-4477
+We’re ready to move fast as soon as we get the approval—thanks for keeping us in the loop!

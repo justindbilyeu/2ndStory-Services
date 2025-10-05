@@ -11,6 +11,7 @@ Use this to guide validation research; each line should end in a concrete next s
 - Insurance sanity check: [/validation/insurance-sanity-check.md](../blob/main/validation/insurance-sanity-check.md)
 - Quote CSV: [/data/comp-scenarios.csv](../blob/main/data/comp-scenarios.csv)
 - Disposal vendors: [/data/vendor-contacts.csv](../blob/main/data/vendor-contacts.csv)
+- Partner briefs: [/resources/partners/INDEX.md](../blob/main/resources/partners/INDEX.md)
 
 ## 🤝 Workforce Pipeline Validation — STATUS: IN PROGRESS
 ### Recovery Community

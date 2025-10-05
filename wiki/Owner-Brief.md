@@ -1,7 +1,12 @@
 # Owner Brief
-**What:** Dedicated tear-off & site-prep crews so installers focus on installation.  
-**Who:** OSHA-trained, documented workers from Austin’s recovery community.  
+**What:** Dedicated tear-off & site-prep crews so installers focus on installation.
+**Who:** OSHA-trained, documented workers from Austin’s recovery community.
 **Why now:** Faster schedules, stronger compliance, real community impact.
+
+## Offer
+- Crew-in-a-box covering tear-off, hauling, site prep, and day-one staging.
+- Supervisor manages toolbox talks, safety documentation, and job closeout photos.
+- Flexible engagement: deploy alongside internal crews or run as a standalone prep unit.
 
 ## Pilot (90 days)
 - Crew: 1 OSHA-10 lead + 4–5 workers

@@ -6,24 +6,24 @@ Multi-population workforce model for the pilot. Each pipeline has unique strengt
 
 ### Recovery Community
 **Best-fit roles:** Tear-off, site prep, cleanup  
-**Partner orgs (Austin):** Austin Recovery, Salvation Army, The Other Ones Foundation  
-**Support:** treatment/meeting flex, case-manager contact, transport  
+**Partners (Austin):** Austin Recovery, Salvation Army, The Other Ones Foundation  
+**Supports:** treatment/meeting flexibility; case-manager coordination; transport  
 **Quick outreach:** “Structured, safety-first outdoor work; weekly pay; supportive crews. Start with 2–3 candidates?”
 
 ### Veterans (Transitioning service members + spouses)
 **Best-fit roles:** Crew lead pipeline, fencing/erosion, logistics  
-**Partners:** Hiring Our Heroes, Combined Arms, Texas Veterans Commission  
-**Support:** PTSD/TBI awareness, clear chain of command, mission clarity  
+**Partners:** Texas Veterans Commission, Hiring Our Heroes, Combined Arms  
+**Supports:** PTSD/TBI awareness; clear chain of command; mission clarity  
 **Quick outreach:** “Safety-first, team environment with growth to crew lead. Start with 2–3 candidates?”
 
 ### Women (Economic barriers / DV survivors)
 **Best-fit roles:** Site prep, final cleanup, erosion inspection  
 **Partners:** SAFE Alliance, SafePlace Austin, Dress for Success Austin  
-**Support:** trauma-informed mgmt, privacy, childcare flex, PPE fit  
-**Quick outreach:** “Women-inclusive crews for site prep/cleanup; trauma-informed, safety-first, privacy-protected.”
+**Supports:** trauma-informed mgmt; privacy; childcare flexibility; PPE fit  
+**Quick outreach:** “Women-inclusive crews for site prep/cleanup; trauma-informed, privacy-protected.”
 
 ## FUTURE POPULATIONS (Phase 2+)
-**Reentry, Refugees/Asylees, Opportunity Youth, People with Disabilities (TWC VR)** — notes on fit, supports, and strategic value.
+Reentry • Refugees/Asylees • Opportunity Youth • People with Disabilities (TWC VR)
 
 ## Partnership Success Indicators
 - ≥2 reliable candidates per month

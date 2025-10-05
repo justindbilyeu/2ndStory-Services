@@ -1,0 +1,4 @@
+program_name,agency,priority,amount_min,amount_max,populations,deadline,status,complexity,requires_partnership,infrastructure_needed,realistic_timeline,notes
+Work Opportunity Tax Credit (WOTC),IRS/TWC,5,2400,9600,veterans,reentry,recovery,public_assistance,rolling,research,medium,no,"Add Form 8850 to hiring packet; track hours 120/400; file Form 5884 at tax time",immediate,"Per-hire credit; submit Form 8850 within 28 days of hire"
+Apprenticeship Tax Refund (TX),State of Texas,3,2500,2500,veterans,reentry,recovery,rolling,watching,high,yes,"DOL-registered apprenticeship; partner training provider","2-3 months","Amount per apprentice; confirm current program rules"
+Texas Skills Development Fund,TWC,3,50000,500000,veterans,reentry,recovery,women,rolling,watching,high,yes,"Community college partner (e.g., ACC); proposal development","3-6 months","Training grant via college partner; use pilot data in application"

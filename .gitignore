@@ -11,3 +11,12 @@ exports/
 
 # Private local notes
 secrets/
+
+# Funding artifacts
+/data/funding-summary.md
+/data/private/
+/data/*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db

@@ -16,6 +16,7 @@ Our pilot deploys OSHA-led roofing support crews with a **three-population workf
 - 🛡️ Insurance Sanity Check: [`/validation/insurance-sanity-check.md`](https://github.com/justindbilyeu/2ndStory-Services/blob/main/validation/insurance-sanity-check.md)
 - 🧰 SOP Index: [`/operations/README.md`](https://github.com/justindbilyeu/2ndStory-Services/blob/main/operations/README.md)
 - 📦 Data (metrics & vendors): [`/data/`](https://github.com/justindbilyeu/2ndStory-Services/tree/main/data)
+- 💸 Funding & Incentives: [[Funding & Incentives]]
 - 👥 Talent Pipelines Pack: [`/resources/talent-pipelines.md`](https://github.com/justindbilyeu/2ndStory-Services/blob/main/resources/talent-pipelines.md)
 
 ## Owner Brief

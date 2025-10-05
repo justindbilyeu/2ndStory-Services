@@ -12,6 +12,7 @@ Use this to guide validation research; each line should end in a concrete next s
 - Quote CSV: [/data/comp-scenarios.csv](../blob/main/data/comp-scenarios.csv)
 - Disposal vendors: [/data/vendor-contacts.csv](../blob/main/data/vendor-contacts.csv)
 - Partner briefs: [/resources/partners/INDEX.md](../blob/main/resources/partners/INDEX.md)
+- Partner intelligence pack: [/resources/partners/Partner-Intelligence-2025-10-04.md](../blob/main/resources/partners/Partner-Intelligence-2025-10-04.md)
 - Talent pipelines reference: [/resources/talent-pipelines.md](../blob/main/resources/talent-pipelines.md)
 
 ## 🤝 Workforce Pipeline Validation — STATUS: IN PROGRESS
@@ -29,3 +30,7 @@ Use this to guide validation research; each line should end in a concrete next s
 - Contacts: SAFE Alliance, SafePlace Austin, Dress for Success Austin
 - Key Questions: privacy requirements, childcare coordination, PPE fit needs
 - Next Steps: Align on trauma-informed supervision plan; confirm referral process; target 1–2 pilot candidates
+
+## Partner Intelligence
+- Rankings + action plan: [/resources/partners/Partner-Intelligence-2025-10-04.md](../blob/main/resources/partners/Partner-Intelligence-2025-10-04.md)
+- Quick lookup table: [/resources/partners/INDEX.md](../blob/main/resources/partners/INDEX.md)

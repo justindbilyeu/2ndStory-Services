@@ -8,7 +8,7 @@ flags urgent deadlines, and exports partner-facing summaries.
 
 from __future__ import annotations
 import csv
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
 import argparse

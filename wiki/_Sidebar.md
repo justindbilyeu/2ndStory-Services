@@ -1,6 +1,8 @@
 ## 2nd Story Services
 - [[Home]]
 - [[Owner Brief]]
+- [[FAQ]]
+- [[Weekly Update Template]]
 - [[Pilot Playbook]]
 - [[Validation Hub]]
   - [[Insurance]]

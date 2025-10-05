@@ -16,5 +16,7 @@
 - Pilot proposal (repo): [/proposals/v1-internal-pilot.md](../blob/main/proposals/v1-internal-pilot.md)
 - Insurance sanity check (repo): [/validation/insurance-sanity-check.md](../blob/main/validation/insurance-sanity-check.md)
 - SOPs index (repo): [/operations/README.md](../blob/main/operations/README.md)
+- 🖨️ Printable insert (PDF): [/proposals/2ndStory-WorkforceModel_Insert.pdf](https://github.com/justindbilyeu/2ndStory-Services/blob/main/proposals/2ndStory-WorkforceModel_Insert.pdf)
+- 📄 Markdown version: [/proposals/WorkforceModel_Insert.md](https://github.com/justindbilyeu/2ndStory-Services/blob/main/proposals/WorkforceModel_Insert.md)
 
 **Contact:** Justin Bilyeu — [phone/email]

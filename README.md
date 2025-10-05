@@ -4,9 +4,11 @@
 [➡️ Project Wiki](https://github.com/justindbilyeu/2ndStory-Services/wiki) — overview for owners/partners
 
 ## Vision
-Create a specialized tear-off and site prep service staffed by people rebuilding their lives — including those in recovery, transitioning veterans, and women overcoming economic barriers — delivering professional construction support with measurable community impact.
+Create a specialized tear-off and site prep service staffed by people rebuilding their lives — including community members in recovery, transitioning veterans (and spouses), and women overcoming economic barriers — delivering professional construction support with measurable community impact.
 
-**Multi-Population Model (Pilot):** Recovery + Veterans + Women (future: Reentry, Refugees, Youth, Disabilities).
+> **Multi-Population Pilot Model:** Recovery • Veterans • Women  \
+> Future cohorts: Reentry • Refugees/Asylees • Opportunity Youth • People with Disabilities (TWC VR).  \
+> See [`resources/talent-pipelines.md`](resources/talent-pipelines.md) for partner details and outreach scripts.
 
 ## Current Status
 🔍 **Validation Phase** — Gathering insurance data, partner feedback, market scan, and internal QC baselines.

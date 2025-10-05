@@ -2,8 +2,19 @@
 [Paste the branded one-pager content here after owner review.]
 
 ## WORKFORCE MODEL: THREE-POPULATION PILOT
-We’ll staff with **Recovery**, **Veterans**, and **Women** (site-prep/erosion emphasis).  
-**Crew (5–6):** 2–3 Recovery · 1–2 Veterans · 1–2 Women · 1 OSHA-10+ Crew Lead.
+We will staff the internal pilot with a blended workforce drawn from **Recovery**, **Veterans (including spouses)**, and **Women overcoming economic barriers or DV histories**. Each population brings unique strengths, and all will be supported through trauma-informed supervision, structured schedules, and coordinated case-management touchpoints.
 
-**Why it strengthens the model:** diversified pipeline, WOTC/grants, triple-threat market story, same ops backbone.  
-**Enhanced success metrics:** retention by population (30/60/90, target ≥80%), attendance reliability, incident rate/1,000 hrs, customer feedback, incentives captured.
+**Crew Composition (5–6 total):**
+- 2–3 Recovery community members (tear-off, site prep, cleanup focus)
+- 1–2 Veterans or military spouses (crew lead pipeline, logistics, erosion control)
+- 1–2 Women recruits (site prep, final cleanup, erosion inspection)
+- OSHA-10+ Crew Lead (may be veteran track)
+
+**Enhanced Success Metrics:**
+- Retention and attendance by population at 30/60/90 days (target ≥80%)
+- Daily safety observations and incident rate per 1,000 hours
+- Case-manager coordination scorecard (response time, support satisfaction)
+- Candidate pipeline throughput (≥2 reliable referrals per population/month)
+- Incentive capture (WOTC, veteran grants, partner subsidies)
+
+**Why it matters:** Diversifying the pilot talent mix strengthens operational resilience, unlocks funding incentives, and tells a mission-forward story for clients and investors without changing the core service model.

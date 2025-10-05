@@ -1,6 +1,8 @@
 # 2nd Story Services
 *Elevating roofing operations, empowering second chances*
 
+[➡️ Project Wiki](https://github.com/justindbilyeu/2ndStory-Services/wiki) — overview for owners/partners
+
 ## Vision
 Create a specialized tear-off and site preparation service staffed by individuals from Austin's recovery community, solving labor inefficiency in residential roofing while providing meaningful employment and workforce reentry opportunities.
 

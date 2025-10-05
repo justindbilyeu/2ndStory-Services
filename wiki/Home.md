@@ -18,6 +18,9 @@ Our pilot deploys OSHA-led roofing support crews with a **three-population workf
 - 📦 Data (metrics & vendors): [`/data/`](https://github.com/justindbilyeu/2ndStory-Services/tree/main/data)
 - 👥 Talent Pipelines Pack: [`/resources/talent-pipelines.md`](https://github.com/justindbilyeu/2ndStory-Services/blob/main/resources/talent-pipelines.md)
 
+## Owner Brief
+- Latest strategic snapshot: [Strategic Insights Summary (2025-10-04)](../blob/main/strategy/Strategic-Insights-Summary-2025-10-04.md)
+
 ## Current Phase
 **Validation** — Insurance, three-population partnership outreach, QC baselines, disposal/recycling options.
 

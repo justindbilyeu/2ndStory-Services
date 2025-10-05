@@ -4,7 +4,9 @@
 Welcome! This wiki is a high-level overview. Working docs live in the repo.
 
 ## What We're Building
-**Workforce Model:** Pilot employs candidates from the recovery community, transitioning veterans, and women overcoming barriers (with planned expansion to reentry and youth apprenticeships).
+Our pilot deploys OSHA-led roofing support crews with a **three-population workforce model**: Recovery community members, transitioning veterans (and spouses), and women overcoming economic barriers or DV histories. Future expansion will add reentry, refugees/asylees, opportunity youth, and people with disabilities in partnership with TWC VR.
+
+👉 See the full pipeline breakdown, outreach templates, and support requirements in [`resources/talent-pipelines.md`](../blob/main/resources/talent-pipelines.md).
 
 ## Quick Links
 - 🗂️ Wiki overview: [[Owner Brief]]
@@ -17,7 +19,7 @@ Welcome! This wiki is a high-level overview. Working docs live in the repo.
 - 👥 Talent Pipelines Pack: [`/resources/talent-pipelines.md`](https://github.com/justindbilyeu/2ndStory-Services/blob/main/resources/talent-pipelines.md)
 
 ## Current Phase
-**Validation** — Insurance, recovery partnerships, QC baselines, disposal/recycling options.
+**Validation** — Insurance, three-population partnership outreach, QC baselines, disposal/recycling options.
 
 ## Divisions (Roadmap)
 - Roofing Support (pilot): tear-off & site prep

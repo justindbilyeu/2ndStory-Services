@@ -11,6 +11,8 @@ Use this to guide validation research; each line should end in a concrete next s
 - Insurance sanity check: [/validation/insurance-sanity-check.md](../blob/main/validation/insurance-sanity-check.md)
 - Quote CSV: [/data/comp-scenarios.csv](../blob/main/data/comp-scenarios.csv)
 - Disposal vendors: [/data/vendor-contacts.csv](../blob/main/data/vendor-contacts.csv)
+- Partner briefs: [/resources/partners/INDEX.md](../blob/main/resources/partners/INDEX.md)
+- Talent pipelines reference: [/resources/talent-pipelines.md](../blob/main/resources/talent-pipelines.md)
 
 ## 🤝 Workforce Pipeline Validation — STATUS: IN PROGRESS
 ### Recovery Community
@@ -19,7 +21,7 @@ Use this to guide validation research; each line should end in a concrete next s
 - Next Steps: Send outreach email; schedule case manager sync; confirm 2–3 pilot candidates
 
 ### Veterans
-- Contacts: Hiring Our Heroes, Combined Arms, Texas Veterans Commission
+- Contacts: Texas Veterans Commission, Hiring Our Heroes, Combined Arms
 - Key Questions: crew lead pipeline expectations, PTSD/TBI accommodations, spouse participation
 - Next Steps: Share pilot overview; book intro calls; identify 1–2 veteran candidates with crew lead potential
 

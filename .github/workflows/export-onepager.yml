@@ -1,0 +1,33 @@
+name: Export One-Pager to PDF
+on:
+  workflow_dispatch:
+  push:
+    branches: ["polish/sprint-01"]
+    paths:
+      - "sales/one-pagers/2ndStory-Executive-OnePager.md"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: Install pandoc + LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-recommended texlive-fonts-recommended texlive-latex-extra
+      - name: Convert MD -> PDF
+        run: |
+          pandoc "sales/one-pagers/2ndStory-Executive-OnePager.md" -o "sales/one-pagers/2ndStory-Executive-OnePager.pdf"
+      - name: Commit PDF if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add "sales/one-pagers/2ndStory-Executive-OnePager.pdf"
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: export one-pager PDF"
+            git push
+          fi

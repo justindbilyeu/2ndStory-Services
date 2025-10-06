@@ -1,0 +1,20 @@
+name: Partner Outreach
+description: Track outreach to workforce partner orgs
+labels: ["partner-outreach"]
+body:
+  - type: input
+    id: org
+    attributes: { label: Organization }
+    validations: { required: true }
+  - type: input
+    id: contact
+    attributes: { label: Contact (name/title/email/phone) }
+  - type: textarea
+    id: notes
+    attributes: { label: Notes / script used / context }
+  - type: input
+    id: status
+    attributes: { label: Status (Sent / Scheduled / Met / Closed) }
+  - type: input
+    id: next
+    attributes: { label: Next step + date }

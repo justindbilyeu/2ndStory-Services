@@ -1,7 +1,41 @@
 # 2nd Story Services
-*Elevating roofing operations, empowering second chances*
+**Professional site services. Employment with purpose.**  
+Roofing tear-off, site prep, cleanup, fencing & erosion control — delivered by OSHA-led crews made up of people rebuilding their lives (recovery community, veterans, and women entering the trades).
 
-[➡️ Project Wiki](https://github.com/justindbilyeu/2ndStory-Services/wiki) — overview for owners/partners
+[▶ One-pager (MD)](sales/one-pagers/2ndStory-Executive-OnePager.md) · [Pilot proposal](proposals/v1-internal-pilot.md) · [Competitive positioning](Competitive%20Positioning.md) · [Wiki Home](https://github.com/justindbilyeu/2ndStory-Services/wiki)
+
+---
+
+## What we do
+- **Clean-deck handoffs:** Crews prep roofs to installer-ready spec on tight windows.
+- **Compliance-first:** Documented W-2 labor, I-9/E-Verify, OSHA-led processes.
+- **Social impact:** Clear pathways into the trades for recovery, veterans, and women.
+
+## Service scope (pilot)
+- Roofing **tear-off & haul-off**
+- **Site prep & final cleans**
+- **Fencing & erosion control** (pilot-ready)
+- Optional: post-install cleanup
+
+## Our promise (SLA snapshot)
+- Clean-deck handoff by **[agreed time window]**
+- **Photo QC** (before/after set)
+- **Installer acceptance** on handoff checklist
+- **85/15 milestone billing** (aligned incentives)
+
+---
+
+## Quick links
+- **Sales kit:** `sales/` (rate card, one-pagers, scripts)
+- **Operations:** `operations/` (SOPs, safety, onboarding)
+- **Validation:** `validation/` (insurance notes, partnerships, QC data)
+- **Tools:** `tools/` (grant tracker, checklists)
+
+*Contact:* hello@2ndstory.services (placeholder)  
+*EEO/Anti-harassment:* see `operations/code-of-conduct.md`
+
+Note: the PDF link is not referenced here to avoid binary churn. We’ll generate it via workflow (section 6).
+
 
 ## Vision
 Create a specialized tear-off and site prep service staffed by people rebuilding their lives — including community members in recovery, transitioning veterans (and spouses), and women overcoming economic barriers — delivering professional construction support with measurable community impact.

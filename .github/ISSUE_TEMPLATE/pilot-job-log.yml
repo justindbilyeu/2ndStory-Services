@@ -1,0 +1,25 @@
+name: Pilot Job Log
+description: Capture execution + acceptance
+labels: ["pilot"]
+body:
+  - type: input
+    id: address
+    attributes: { label: Job address }
+    validations: { required: true }
+  - type: textarea
+    id: details
+    attributes: { label: Scope (layers, pitch, dumpsters, crew) }
+  - type: input
+    id: handoff
+    attributes: { label: Handoff time (target vs actual) }
+  - type: textarea
+    id: photos
+    attributes: { label: Photo links (before/after) }
+  - type: dropdown
+    id: acceptance
+    attributes:
+      label: Installer acceptance
+      options: ["Accepted", "Accepted w/ punch", "Rejected"]
+  - type: textarea
+    id: notes
+    attributes: { label: Notes / incidents / lessons }

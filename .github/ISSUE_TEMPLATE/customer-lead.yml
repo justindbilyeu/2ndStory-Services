@@ -1,0 +1,25 @@
+name: Customer Lead
+description: Track contractor prospecting
+labels: ["customer-lead"]
+body:
+  - type: input
+    id: company
+    attributes: { label: Company }
+    validations: { required: true }
+  - type: textarea
+    id: scope
+    attributes: { label: Scope (services, size, dates) }
+  - type: checkboxes
+    id: artifacts
+    attributes:
+      label: Artifacts sent
+      options:
+        - label: One-pager
+        - label: Rate/SLA
+        - label: Case study/photos
+  - type: input
+    id: window
+    attributes: { label: Handoff window (if agreed) }
+  - type: input
+    id: next
+    attributes: { label: Next step + date }
